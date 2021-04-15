@@ -2,6 +2,8 @@
 # **Take a Health Check**
 [![Code Quality - Static Code - Cppcheck](https://github.com/akshay300712/LnT_Mini_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/akshay300712/LnT_Mini_Project/actions/workflows/cppcheck.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/akshay300712/LnT_Mini_Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/akshay300712/LnT_Mini_Project/actions/workflows/gitinspector.yml)
+
 ## Contributors 
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
