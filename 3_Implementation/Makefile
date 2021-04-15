@@ -12,3 +12,5 @@ $(PROJECT_NAME):$(SRC)
 
 run: $(PROJECT_NAME)
 	$(PROJECT_NAME)
+clean:
+	del /q *.exe
