@@ -1,8 +1,6 @@
 ![Banner](https://github.com/akshay300712/LnT_Mini_Project/blob/735a80ef0fe68a6fabb5ae7a985b6cc5acbc2e5f/1_Requirements/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.gif)
 # **Take a Health Check**
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/akshay300712/LnT_Mini_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/akshay300712/LnT_Mini_Project/actions/workflows/cppcheck.yml)
 
 ## Contributors 
 
