@@ -1,5 +1,5 @@
 ![Banner](https://github.com/akshay300712/LnT_Mini_Project/blob/735a80ef0fe68a6fabb5ae7a985b6cc5acbc2e5f/1_Requirements/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.gif)
-# **Take a Health Check**
+# **Take a Check**
 [![Code Quality - Static Code - Cppcheck](https://github.com/akshay300712/LnT_Mini_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/akshay300712/LnT_Mini_Project/actions/workflows/cppcheck.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/akshay300712/LnT_Mini_Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/akshay300712/LnT_Mini_Project/actions/workflows/gitinspector.yml)
@@ -20,10 +20,8 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## Challenges Faced and How Was It Overcome
 
-1. ...
-2. ...
-3. ...
-4. ...
+1. New to the git environment, had to go through some learning resources provided to us.
+
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
