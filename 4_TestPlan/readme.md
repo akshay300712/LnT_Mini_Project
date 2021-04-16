@@ -1,6 +1,6 @@
 # TEST PLAN:
 
-## Table no: High level test plan
+## Table no: 1
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
@@ -8,7 +8,7 @@
 |  H_02       |Check Columns if someone won the game |x x x|1|1|Requirement based |
 |  H_03       |Check Diagonals if someone won the game |x x x|1|1|Requirement based |
 
-## Table no: Low level test plan
+## Table no: 2
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
