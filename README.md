@@ -8,8 +8,7 @@
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`259855` | `Akshay Mishra`  | Feature A, B etc    | X No     | X No   |X No   |X No     
-   
+`259855` | `Akshay Mishra`  |COmplete Game App  | No     | NA |3   |2|
  ## Folder Terminology
  Folder             | Description
 -------------------| -----------------------------------------
@@ -17,6 +16,9 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 `2_Design`         | Design related Documents
 `3_Implementation` | All Codes lines and stuff
 `4_Test_plan`      | Test Planning
+`5_Build`      | .exe builut on Windows OS
+`6_Screenshots`      | screenshots of the game
+
 
 ## Challenges Faced and How Was It Overcome
 
