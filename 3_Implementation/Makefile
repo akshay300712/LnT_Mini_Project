@@ -1,5 +1,4 @@
-
-PROJECT_NAME = Tic_Tac_Toe
+PROJECT_NAME = "Tic_Tac_Toe"
 BUILD = build
 
 # All source code files
@@ -17,16 +16,8 @@ TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 INC	= -Iinc\
 -Iunity\
 
-
-#Library Inlcudes
-#if working with CUnit 
-#INCLUDE_LIBS = -lcunit
-INCLUDE_LIBS =
-
-# Project Output name
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
 
-# Document files
 DOCUMENTATION_OUTPUT = documentation/html
 
 # Default target built
